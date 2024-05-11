@@ -41,7 +41,8 @@ const DispayAlbum = () => {
         </p>
         <p>Album</p>
         <p className="hidden sm:block">Date Added</p>
-        <img className="m-auto w-4" src={assets.clock_icon} alt="" />
+              <img className="m-auto w-4" src={assets.clock_icon} alt="" />
+       
       </div>
       <hr />
           {
